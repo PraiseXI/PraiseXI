@@ -9,7 +9,7 @@ Yes my name is actually Praise | 19 Years Old | Studying Computer Science in my 
 - Database Systems*
 - Algorthim Design*
 - Complier Design*
-- *Current Modules in my degree*
+- **Current Modules in my degree*
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
