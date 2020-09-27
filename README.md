@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**PraiseXI/PraiseXI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### 👋 A bit about me:
+Yes my name is actually Praise | 19 Years Old | Studying Computer Science at Liverpool John Moores University (Liverpool, UK)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
