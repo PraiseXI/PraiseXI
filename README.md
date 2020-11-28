@@ -2,6 +2,7 @@
 My name is Praise 👋 I'm 20 years old studying Computer Science in my second year at Liverpool John Moores University (Liverpool, UK), I'm also a photographer!
 
 ### 🔭 I’m currently working on:
+- Personal ideas for projects
 - Learning python independently through online resources
 - Developing my current knowledge in CSharp, HTML and Java.
 
