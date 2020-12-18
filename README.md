@@ -3,7 +3,7 @@ My name is Praise 👋 I'm 20 years old studying Computer Science in my second y
 
 ### 🔭 I’m currently working on:
 - Personal ideas for projects
-- Learning python independently through online resources
+- Learning Javascript independently through online resources
 - Developing my current knowledge in CSharp, HTML and Java.
 
 ### 🌱 I’m currently learning:
