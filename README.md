@@ -7,9 +7,10 @@ My name is Praise 👋 I'm 20 years old studying Computer Science in my second y
 - Developing my current knowledge in CSharp, HTML and Java.
 
 ### 🌱 I’m currently learning:
-- Database Systems*
-- Algorthim Design*
-- Complier Design*
+- Research Skills*
+- Professional Issues*
+- Object Oriented Systems Development*
+- Knowledge-Based Systems*
 - **Current Modules in my degree*
 
 ### 🤔 I’m looking for help with :
